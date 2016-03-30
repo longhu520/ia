@@ -1,0 +1,9 @@
+/*********************************************
+ * OPL 12.6.2.0 Data
+ * Author: PaulPark
+ * Creation Date: 14 mars 2016 at 13:01:09
+ *********************************************/
+fichiersDonnees = {
+	"../donneesInstances/syntaxe1.txt",
+	"../donneesInstances/syntaxe2.txt"
+};
